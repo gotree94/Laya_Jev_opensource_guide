@@ -1,8 +1,10 @@
 # Laya 가이드 — Jev를 오픈소스로 Self-Hosting 하기
 
-> 기준 문서: GitHub `NandhaKishorM/laya`, HuggingFace `convaiinnovations/laya`
-> 참고 영상: 「Laya 진짜 추천합니다. Jev를 오픈소스로 쓰는법」
-> 라이선스: **Apache-2.0** (상업적 사용 가능, Laya / Laya-MLX / Laya-CoreML / Ollaya 모두)
+> 기준 문서: GitHub `NandhaKishorM/laya`, HuggingFace `convaiinnovations/laya` <br>
+> 참고 영상: 「Laya 진짜 추천합니다. Jev를 오픈소스로 쓰는법」 <br>
+> 라이선스: **Apache-2.0** (상업적 사용 가능, Laya / Laya-MLX / Laya-CoreML / Ollaya 모두) <br>
+
+* https://youtu.be/ZktfWXfOwIY
 
 ---
 
